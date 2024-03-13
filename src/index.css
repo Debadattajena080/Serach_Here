@@ -11,6 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+.container{
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+}
 
 .search-bar {
   width: 241px;
@@ -62,4 +68,12 @@ th {
 .noData-found {
   margin-top: 25px;
   font-weight: 500;
+}
+
+.pagination-container{
+  display: flex;
+}
+
+.dropdown-container{
+  margin-right: 30px;
 }
