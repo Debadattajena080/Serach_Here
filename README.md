@@ -5,6 +5,7 @@ For running the project in the local we can clone the repo and after that run np
 ### `npm start`
 
 Runs the app in the development mode.\
+In the terminal Type: npm run
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
